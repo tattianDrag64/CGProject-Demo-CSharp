@@ -11,7 +11,7 @@ This is a feature-rich and extensible drawing tool created as a personal project
 
 Take a look at the editor in action:
 
-<img src="screenshots/1.png" width="500"/>
+<img src="screenshots/1.png"/>
 
 ---
 
